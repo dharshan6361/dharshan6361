@@ -1,29 +1,25 @@
-# Hello, I'm Dharshan!
-
-Welcome to my GitHub Profile! Here you'll find a showcase of my projects, skills, and experience.
+# Professional Profile
 
 ## Projects
+1. **Project One**: Description of project one.
+2. **Project Two**: Description of project two.
+3. **Project Three**: Description of project three.
 
-### AI-Jarvis
-An intelligent assistant built using NLP and machine learning techniques. Check out the repository for more details and source code.
+## Skills
+- Programming Languages: Python, JavaScript, C++
+- Web Development: HTML, CSS, React
+- Databases: MySQL, MongoDB
+- Tools: Git, Docker, Jenkins
 
-### URL Shortener API
-This project is a simple API for shortening URLs using Express.js and MongoDB.
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dharshan6361&show_icons=true&theme=radical)
 
-### Breast Cancer Detection
-A machine learning project aimed at detecting breast cancer using various algorithms. 
-
-## Technical Skills
-- Programming Languages: Python, JavaScript, Java
-- Frameworks: React, Express.js, Flask
-- Tools & Technologies: Git, Docker, PostgreSQL
-
-## Education
-- Bachelor of Technology in Computer Science
-- Various online courses on AI and web development.
+## Certifications
+- **Certification One**: Institution, Year
+- **Certification Two**: Institution, Year
 
 ## Contact Information
-- Email: dharshanhn074@gmail.com.com
-- LinkedIn: https://www.linkedin.com/in/dharshan-h-n-1555aa279/
+- **Email**: dharshan6361@example.com
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/darshan6361)
 
-Feel free to reach out if you want to collaborate or just connect!
+---
