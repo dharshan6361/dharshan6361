@@ -23,7 +23,7 @@ A machine learning project aimed at detecting breast cancer using various algori
 - Various online courses on AI and web development.
 
 ## Contact Information
-- Email: dharshan@example.com
-- LinkedIn: [dharshan6361](https://www.linkedin.com/in/dharshan6361)
+- Email: dharshanhn074@gmail.com.com
+- LinkedIn: https://www.linkedin.com/in/dharshan-h-n-1555aa279/
 
 Feel free to reach out if you want to collaborate or just connect!
